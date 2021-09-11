@@ -1,6 +1,23 @@
 ## siyakat
 
-Siyakat, Osmanlı devletinin yazışmalarında kullandığı bir şifreleme tekniğidir. Bu dizin siyakat algoritmasından esinlenerek oluşturulmuş Siyakat Şifreleme metodunun Algoritma, Kaynak kodu ve test dosyalarını barındırmaktadır.
+Bu dizin, Siyakat Şifreleme tekniğinin, dijital verileri şifreleyebilme kabiliyeti kazanmış algoritma ve kullanım örneklerini barındırır.
+
+---
+
+### Algoritma
+
+**Şifreleme Algoritması**
+* Veri HEX koduna dönüştürülür
+* Miftah for döngüsüne alınır ve HEX kodunun her harfi Miftah karşılığıyla değiştirilir
+* Dönüşmüş değer tekrar hex koduna dönüştürülerek diğer miftahlı işlemlere uygun hale getirilir.
+
+**Çözüm Algoritması**
+* Miftah sırası tam tersi yönde değiştirilir.
+* Miftah for döngüsüne alınır ve Şifreli parametre Miftah anahtarına dönüştürülmek üzere işlemden geçirilir, bu miftah sayısına bağlı olarak gerçekleştirilir. Her işlemden sonra HEX kodu okunabilir hale dönüştürülür.
+
+---
+
+### Kullanım Örnekleri
 
 * [php](https://github.com/aliyilmaz/siyakat/tree/main/php)
 * [javascript](https://github.com/aliyilmaz/siyakat/tree/main/javascript)

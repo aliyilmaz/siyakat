@@ -24,11 +24,6 @@ Bu dizin, Siyakat Şifreleme tekniğinin, dijital verileri şifreleyebilme kabil
 
 ---
 
-#### Videosu:
-https://www.youtube.com/watch?v=BnnL5AT3Qa0
-
----
-
 ### Lisans
 Bu dizinde bulunan yönerge ve dosyalar **GPL3** lisansı altında paylaşılmıştır.
 

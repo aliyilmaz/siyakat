@@ -8,7 +8,7 @@ Bu dizin, Siyakat Şifreleme tekniğinin, dijital verileri şifreleyebilme kabil
 
 **Şifreleme Algoritması**
 * Veri HEX koduna dönüştürülür
-* Miftah for döngüsüne alınır ve HEX kodunun her harfi Miftah karşılığıyla değiştirilir
+* Miftah for döngüsüne alınır ve HEX kodunun her karakteri Miftah karşılığıyla değiştirilir
 * Dönüşmüş değer tekrar hex koduna dönüştürülerek diğer miftahlı işlemlere uygun hale getirilir.
 
 **Çözüm Algoritması**

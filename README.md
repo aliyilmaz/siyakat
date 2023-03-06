@@ -20,10 +20,10 @@ Bu dizin, Siyakat Şifreleme tekniğinin, dijital verileri şifreleyebilme kabil
 ### Demo:
 
 #### Şifreleme:
-https://aliyilmaz.github.io/mind.js/examples/siyakat_encode.html
+https://aliyilmaz.github.io/repositories/siyakat/javascript/tests/siyakat_encode.html
 
 #### Şifre çözme:
-https://aliyilmaz.github.io/mind.js/examples/siyakat_decode.html
+https://aliyilmaz.github.io/repositories/siyakat/javascript/tests/siyakat_decode.html
 
 ---
 

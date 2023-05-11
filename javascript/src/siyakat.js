@@ -197,3 +197,13 @@ function keyupItem(element, callback){
 
     };
 }
+function is_string(value) {
+    return typeof value === 'string';
+}
+  
+function is_array(value) {
+    return Array.isArray(value);
+}
+function is_object(value) {
+    return typeof value === 'object' && value !== null && !Array.isArray(value);
+}  
